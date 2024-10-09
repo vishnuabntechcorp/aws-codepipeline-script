@@ -1,0 +1,2 @@
+# aws-codepipeline-script
+script
